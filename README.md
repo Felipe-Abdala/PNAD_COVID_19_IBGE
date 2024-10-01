@@ -15,15 +15,6 @@
 
 <br/>
 
-**Objetivo:**<br/>
-> Levantar indicadores sobre quais seriam as principais ações que um hospital fictício deveria tomar em caso de um novo surto de COVID-19.<br/>
-> Sendo essa análise, respaldada a partir de um levamento dos comportamentos da população (a partir de indicadores) na época da pandemia da COVID-19, conforme lista de temas abaixo:</br>
-> 1. Clínicas dos sintomas;
-> 2. Da população;
-> 3. Econômicas da sociedade.
-
-
-<br/>
 
 **Diretório:**<br/>
 > O diretório do Looker com o Dashboard é o seguinte:
@@ -38,6 +29,15 @@
 
 <br/>
 
+**Objetivo:**<br/>
+> Levantar indicadores sobre quais seriam as principais ações que um hospital fictício deveria tomar em caso de um novo surto de COVID-19.<br/>
+> Sendo essa análise, respaldada a partir de um levamento dos comportamentos da população (a partir de indicadores) na época da pandemia da COVID-19, conforme lista de temas abaixo:</br>
+> 1. Clínicas dos sintomas;
+> 2. Da população;
+> 3. Econômicas da sociedade.
+
+
+<br/>
 **Metodologia:**<br/>
 
 > Foram utilizados <u>**bases de dados**</u> integradas ao BigQuery do estudo do PNAD-COVID 19 do IBGE e suas respectivas <u>**documentações**</u> (dicionários de dados):
