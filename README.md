@@ -51,3 +51,15 @@
 > 3. Caracterização dos sintomas clínicos da população;</br>
 > 4. Comportamento da população na época da COVID-19;</br>
 > 5. Características econômicas da Sociedade;</br>
+
+
+<br/>
+**Recomendações:**<br/>
+
+A partir da avaliação do comportamento social, econômico e clínico observa-se que o hospital, caso atenda à rede privada de convênio ou consultas, deverá se atentar (ao se preparar com proteção da sua liquidez de caixa financeiro) à potenciais situações de queda de renda dos pacientes.
+
+Adicionalmente, depreende-se que dada a característica de fácil propagação do vírus COVID-19 entre infectado e potencial adoecido e ao comportamento do brasileiro de não deter dos equipamentos de limpeza adequados para evitar a contaminação há maior risco de contágio, em uma eventual nova pandemia. Com isso, cabe ao hospital se planejar para receber um volume elevado de pessoas adoecidas.
+
+Por fim, estratégias de prevenção e de testagem (vide os exemplos de testagem rápida) podem ser alternativas a serem usadas pelo hospital, a fim de estimular à procura dos pacientes pelo atendimento médico e dessa maneira distribuindo melhor no tempo a concentração do volume (como observado em 2020) acentuado de atendimentos que se dão quando o paciente venha a apresentar quadros sintomáticos mais alarmentes.
+<br/>
+
