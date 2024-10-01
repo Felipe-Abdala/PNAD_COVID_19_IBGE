@@ -54,8 +54,8 @@
 
 
 <br/>
-**Recomendações:**<br/>
-
+**Recomendações:**
+<br/>
 A partir da avaliação do comportamento social, econômico e clínico observa-se que o hospital, caso atenda à rede privada de convênio ou consultas, deverá se atentar (ao se preparar com proteção da sua liquidez de caixa financeiro) à potenciais situações de queda de renda dos pacientes.
 
 Adicionalmente, depreende-se que dada a característica de fácil propagação do vírus COVID-19 entre infectado e potencial adoecido e ao comportamento do brasileiro de não deter dos equipamentos de limpeza adequados para evitar a contaminação há maior risco de contágio, em uma eventual nova pandemia. Com isso, cabe ao hospital se planejar para receber um volume elevado de pessoas adoecidas.
