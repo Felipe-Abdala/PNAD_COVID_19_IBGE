@@ -26,6 +26,12 @@
 <br/>
 
 **Diretório:**<br/>
+> O diretório do Looker com o Dashboard é o seguinte:
+<https://lookerstudio.google.com/reporting/a607264e-a6b8-4707-be8e-a96aaed27746>
+
+> O diretório do Google BigQuery com a tabela tratada do PNAD Covid-19 é o seguinte:
+<https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1spnad-covid19-grupo65-5dtat!2sPNAD_COVID19_grupo65_5dtat>
+ 
 > O diretório do Git-hub com os scripts é o seguinte:
 <https://github.com/Felipe-Abdala/PNAD_COVID_19_IBGE/tree/main>
 
